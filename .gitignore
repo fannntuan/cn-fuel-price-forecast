@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 运行时缓存（含抓取到的行情与状态）
+.cache/
+fuel_forecast_cache/
+snippet_state.json
+.cache/
+*.log
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
